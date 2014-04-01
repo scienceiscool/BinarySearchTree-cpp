@@ -3,12 +3,6 @@
 //Assignment 6 - Binary Search Tree
 //April 25, 2013
 
-//****************************************************************************************
-//MODIFICATION: I changed the variables leftPtr and rightPtr to left and right for brevity
-//****************************************************************************************
-
-//typedef int ItemType;
-
 #pragma once
 
 template<class ItemType> class Tree;
