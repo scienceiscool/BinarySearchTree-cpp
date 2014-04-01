@@ -3,12 +3,6 @@
 //Assignment 6 - Binary Search Tree
 //April 25, 2013
 
-//****************************************************************
-//MODIFICATION: I changed the variable rootPtr to root for brevity
-//****************************************************************
-
-//typedef int ItemType;
-
 #include <iostream>
 #include "REVISED TreeNode.h"
 
